@@ -1,0 +1,11 @@
+{
+  "name": "end-term",
+  "version": "1.0.0",
+  "description": "Web end-term project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alhakim Saiken",
+  "license": "ISC"
+}
